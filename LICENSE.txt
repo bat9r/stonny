@@ -1,0 +1,5 @@
+Copyright (c) 2026 Mykhaylo Pylypyshyn. All rights reserved.
+
+This source code and repository are not open source. You may not use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this code without explicit written permission from the author.
+
+To request permission, please contact: pylypyshyn.m@gmail.com
