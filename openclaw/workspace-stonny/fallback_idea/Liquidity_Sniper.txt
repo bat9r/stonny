@@ -1,0 +1,5 @@
+Poo-pooo 🐘
+
+Name: Liquidity Sniper
+What it does: An automated tool for advanced liquidity providers that monitors STON.fi for new token launches or volatility spikes and instantly moves their concentrated liquidity into the most active price bands to maximize fee capture.
+Which STON API it uses: DEX Pool API for real-time volatility monitoring and V2 SDK for concentrated liquidity management.

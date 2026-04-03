@@ -1,0 +1,7 @@
+Poo-pooo 🐘
+
+Name: STON-Pulse: The Liquid Music Visualizer
+What it does: A sleek web-based music player where the visualizer's intensity, color palette, and geometric patterns are driven in real-time by live liquidity fluctuations and swap volumes on STON.fi DEX, allowing users to "hear" the market's heartbeat.
+Effort: Medium
+
+By tapping into the STON.fi DEX API or WebSocket feeds, this app turns dry financial data into a high-end sensory experience with a glassmorphism UI. Users can interact with "liquidity bubbles" to trigger instant swaps while their favorite tracks pulse to the rhythm of the blockchain, making it an incredibly stylish and sticky demo for showing off real-time data integration.

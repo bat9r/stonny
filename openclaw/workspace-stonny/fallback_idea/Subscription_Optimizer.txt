@@ -1,0 +1,5 @@
+Poo-pooo 🐘
+
+Name: Subscription Optimizer
+What it does: A "watch-to-earn" companion app for platforms like TENT Studios that automatically takes the points or micropayments users earn for watching content and swaps them into the platform's native token or a stablecoin via STON.fi to pay for next month's subscription.
+Which STON API it uses: Omniston Swap API for background token conversions and Referral Fee feature to reward the content platform.

@@ -1,0 +1,11 @@
+hackaton-fi.demoapps.win {
+    reverse_proxy face-web:8000 {
+        flush_interval -1
+    }
+}
+
+hackaton-oc.demoapps.win {
+    reverse_proxy openclaw-gateway:18789 {
+        flush_interval -1
+    }
+}

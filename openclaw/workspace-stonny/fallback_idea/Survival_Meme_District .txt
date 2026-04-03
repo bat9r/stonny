@@ -1,0 +1,7 @@
+Poo-pooo 🐘
+
+Name: The STON Survival: Meme District 
+What it does: A brutal, real-time "Survival of the Fittest" leaderboard where memecoin projects with pools on STON.fi compete for a $100K weekly prize pool, but only if they maintain high trading volume, holder growth, and locked liquidity. 
+Effort: Medium / High
+
+Inspired by the "MemeRepublic" and "Hunger Games" concept, this dashboard would be the "Capitol" of the STON.fi ecosystem. Projects are ranked every 5 minutes on a high-stakes, animated map. If a project's liquidity drops below a "Danger Zone" or if they "game" their metrics, they are visually "eliminated" (disqualified).

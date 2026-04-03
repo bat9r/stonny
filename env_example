@@ -1,0 +1,23 @@
+# OpenClaw image
+OPENCLAW_IMAGE=ghcr.io/openclaw/openclaw:2026.3.13-1
+
+# OpenClaw directories
+OPENCLAW_CONFIG_DIR=/node/.openclaw
+OPENCLAW_WORKSPACE_DIR=/node/.openclaw/workspace
+
+# Gateway settings
+OPENCLAW_GATEWAY_PORT=18789
+OPENCLAW_BRIDGE_PORT=18790
+OPENCLAW_GATEWAY_BIND=lan
+OPENCLAW_GATEWAY_TOKEN=your_token_here
+
+# face-web → OpenClaw connection
+OPENCLAW_WS_URL=ws://openclaw-gateway:18789
+OPENCLAW_SESSION_KEY=agent:stonny:main
+OPENCLAW_AGENT_ID=stonny
+OPENCLAW_TIMEOUT_SECONDS=60
+OPENCLAW_DEVICE_KEY_FILE=/data/face-web-device-ed25519.key
+
+# face-web auth
+APP_USERNAME=your_username
+APP_PASSWORD=your_password

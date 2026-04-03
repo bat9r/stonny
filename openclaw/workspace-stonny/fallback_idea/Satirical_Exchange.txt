@@ -1,0 +1,5 @@
+Poo-pooo 🐘
+
+Name: Satirical Exchange
+What it does: A "Boinkers" style parody game integration where players trade fictional "shitcoins" based on real-time STON.fi market data, but with a twist: the game includes a "Reality Check" button that lets players instantly swap their in-game progress for real TON or project tokens using the actual STON.fi DEX.
+Which STON API it uses: DEX REST API for real-time price feeds and Router API for the final "Reality Check" swap.

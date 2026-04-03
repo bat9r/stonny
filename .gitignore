@@ -1,0 +1,15 @@
+# Environments
+.env
+.env.*
+
+# Keys & Secrets
+*.key
+*.pem
+hackathon-fi-key/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
